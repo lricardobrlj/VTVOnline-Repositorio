@@ -1,7 +1,7 @@
 <addons>
 <addon id="plugin.video.vtvonline"
        name="[COLOR white][B]VTV Online Kodi 19[/B][/COLOR]"
-       version="3.0.2+matrix"
+       version="3.0.3+matrix"
        provider-name="RicardoJ">
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
