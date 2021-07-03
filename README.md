@@ -1,4 +1,4 @@
-# <a href="repository.NAME.zip">DOWNLOADDO REPOSITÓRIO</a>
+# <a href="repository.vtvonline.zip">DOWNLOADDO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
 
